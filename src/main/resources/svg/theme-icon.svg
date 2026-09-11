@@ -1,0 +1,29 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1">
+ <title>Cascara Theme</title>
+ <g>
+
+  <g id="sidebar">
+   <path fill="#191713" id="svg_4" d="m43.49997,19.66665l215.00001,0a21.5,21.66666 0 0 1 21.5,21.66666l0,216.66664a21.5,21.66666 0 0 1 -21.5,21.66666l-215.00001,0a21.5,21.66666 0 0 1 -21.5,-21.66666l0,-216.66664a21.5,21.66666 0 0 1 21.5,-21.66666z"/>
+  </g>
+
+  <line stroke="#c28501" stroke-width="20" id="svg_6" y2="265.00001" x2="11.99999" y1="-0.00001" x1="251.99999" fill="none"/>
+  <line stroke="#be9743" stroke-width="20" id="svg_7" y2="282.00001" x2="32.99999" y1="16.99999" x1="272.99999" fill="none"/>
+  <line stroke="#74602f" stroke-width="20" id="svg_8" y2="304.00001" x2="48.99999" y1="38.99999" x1="288.99999" fill="none"/>
+
+  <g stroke-width="30" id="window">
+   <path stroke="#2D3527" fill="none" id="svg_2" d="m37.49997,14.66663l224.99999,0a22.5,22.58333 0 0 1 22.5,22.58333l0,225.83333a22.5,22.58333 0 0 1 -22.5,22.58333l-224.99999,0a22.5,22.58333 0 0 1 -22.5,-22.58333l0,-225.83333a22.5,22.58333 0 0 1 22.5,-22.58333z"/>
+  </g>
+
+  <g id="background">
+   <path fill="#0d0c0a" id="s" d="m67.5833,83.66665l165.83333,0a16.58333,11.16666 0 0 1 16.58333,11.16666l0,111.66663a16.58333,11.16666 0 0 1 -16.58333,11.16666l-165.83333,0a16.58333,11.16666 0 0 1 -16.58333,-11.16666l0,-111.66663a16.58333,11.16666 0 0 1 16.58333,-11.16666z"/>
+  </g>
+
+  <path stroke="#c28501" id="svg_9" d="m68,151l79,0" stroke-width="20" fill="none"/>
+  <line stroke="#be9743" id="svg_11" y2="151" x2="200" y1="151" x1="150" stroke-width="20" fill="none"/>
+  <line stroke="#be9743" id="svg_12" y2="178" x2="140" y1="178" x1="96" stroke-width="20" fill="none"/>
+  <path stroke="#c28501" id="svg_13" d="m68,124l53,0" stroke-width="20" fill="none"/>
+  <path id="svg_14" d="m124,124l33,0" stroke-width="20" stroke="#be9743" fill="none"/>
+  <line stroke="#c28501" id="svg_15" y2="178" x2="93" y1="178" x1="68" stroke-width="20" fill="none"/>
+ </g>
+
+</svg>
