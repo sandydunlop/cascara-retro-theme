@@ -10,6 +10,15 @@ Color window = brightBeige;
 
 include "color/ui.ct";
 
+// Make icons and status bar text more visible
+ui.titleBarActiveForeground = #000000;
+ui.titleBarInactiveForeground = #000000;
+ui.statusBarDebuggingForeground = #000000;
+ui.statusBarForeground = #000000;
+ui.statusBarItemRemoteForeground = #000000;
+ui.statusBarItemRemoteHoverForeground = #000000;
+ui.statusBarItemHoverForeground = #000000;
+
 // Make comments slightly darker
 // than the auto-generated color
 lang.comment = uiCommon.primary7;

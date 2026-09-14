@@ -17,6 +17,7 @@ Palette vscode-ui = {
     titleBar.activeBackground = ui.titleBarActiveBackground;
     titleBar.inactiveBackground = ui.titleBarInactiveBackground;
     titleBar.activeForeground = ui.titleBarActiveForeground;
+    titleBar.inactiveForeground = ui.titleBarInactiveForeground;
     toolbar.hoverBackground = ui.toolbarHoverBackground;
     toolbar.activeBackground = ui.toolbarActiveBackground;
 

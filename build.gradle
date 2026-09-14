@@ -1,7 +1,7 @@
 plugins {
+    id 'base'
     id 'io.github.qishr.cascara-gradle-plugins.ct' version '0.1.0'
     id 'io.github.qishr.cascara-gradle-plugins.vsix' version '0.1.0'
-    id 'base'
 }
 
 // Useful gradle commands:

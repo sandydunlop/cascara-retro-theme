@@ -98,6 +98,7 @@ Palette ui = {
     titleBarActiveBackground = uiCommon.window;
     titleBarInactiveBackground = uiCommon.window;
     titleBarActiveForeground = uiCommon.primary3;
+    titleBarInactiveForeground = uiCommon.primary3;
     toolbarHoverBackground = rgbaLerp(uiCommon.controlBackground, uiCommon.primary0, 0.4);
     toolbarActiveBackground = rgbaLerp(uiCommon.controlBackground, uiCommon.textBackground, 0.2);
 
